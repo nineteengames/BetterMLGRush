@@ -1,0 +1,3 @@
+name: Ultimate-MLGRush
+version: '${project.version}'
+main: de.ntg.ultimatemlgrush.Ultimate_MLGRush
