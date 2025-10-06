@@ -32,7 +32,7 @@ Requirements
 
 Plugin Installation
 
-    Download the latest MLGRush.jar file from [Link to your Release or Download Page].
+    Download the latest MLGRush.jar file from [[Link to your Release or Download Page]](https://www.spigotmc.org/resources/better-mlgrush.116870/).
 
     Stop your Minecraft server.
 
